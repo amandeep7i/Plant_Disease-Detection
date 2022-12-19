@@ -5,8 +5,8 @@
 ## Finish.py:
 - This script runs both the machine learning model easily in one file and take an Input as a Image and gives the output as a class name. The Script uses both the functions and first enhaces the Image and then use the Plant Disease Detection model to detect the Disease in the given Input Image.<br>
 ## Image(Plant Image):
-![alt text](https://github.com/amandeep7i/Plant_Disease-Detection/blob/master/Screenshots/Sample_output.png)
+![Image](Plant_Disease Detection/Screenshots/Sample_output.png)
 ## Project Structure:
-![alt text](https://github.com/amandeep7i/Plant_Disease-Detection/blob/master/Terminal%20Results/Structure.png)
+![Project_Design](Plant_Disease Detection/Terminal Results/Structure.png)
 ## Terminal Results:
-![alt text](https://github.com/amandeep7i/Plant_Disease-Detection/blob/master/Terminal%20Results/Result.png)
+![CLI_result](Plant_Disease Detection/Terminal Results/Result.png)
